@@ -1,12 +1,12 @@
-Usage
+lab
 =====
 
-.. _installation:
+.. _lab1:
 
-Installation
+Report
 ------------
 
-To use Lumache, first install it using pip:
+Section 1: Hardware Information (5 points)
 
 .. code-block:: console
 
