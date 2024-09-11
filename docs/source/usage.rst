@@ -1,4 +1,4 @@
-usage
+Usage
 =====
 
 .. _introduction:
