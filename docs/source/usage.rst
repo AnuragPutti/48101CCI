@@ -1,7 +1,7 @@
 usage
 =====
 
-.. _Introduction:
+.. _introduction:
 
 Report
 ------------
