@@ -1,7 +1,7 @@
-lab
+usage
 =====
 
-.. _lab1:
+.. _Introduction:
 
 Report
 ------------
